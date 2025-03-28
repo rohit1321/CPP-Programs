@@ -1506,5 +1506,6 @@ export default class CountrySeeder extends BaseSeeder {
         native: "Zimbabwe"
       }]
     )
+    
   }
 }
